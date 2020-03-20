@@ -1,0 +1,3 @@
+User-agent : *
+Disallow : /contact.html
+Sitemap : https://lachouettelyon.000webhostapp.com/sitemap.xml
